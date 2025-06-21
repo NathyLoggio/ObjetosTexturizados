@@ -1,0 +1,21 @@
+# ninja log v6
+2	62	7721898432745444	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5c58d03438fd849d
+2	62	7721898432745444	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5c58d03438fd849d
+62	32342	7721898755552835	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	2e218beb5cc31947
+62	32342	7721898755552835	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	2e218beb5cc31947
+32342	32585	7721898755612686	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	adedb35dab2bc213
+32342	32585	7721898755612686	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	adedb35dab2bc213
+32587	32642	7721898758545370	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a1655cd1d884f3a8
+32587	32642	7721898758545370	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a1655cd1d884f3a8
+32642	32701	7721898759153741	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	1cc853a4e8cd20db
+32642	32701	7721898759153741	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	1cc853a4e8cd20db
+32701	32756	7721898759692304	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ce2cf717fe216845
+32701	32756	7721898759692304	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ce2cf717fe216845
+32756	32808	7721898760220887	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	e6a3e58cb20bfe7e
+32756	32808	7721898760220887	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	e6a3e58cb20bfe7e
+32808	32860	7721898760739518	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	792d7647df90fb86
+32808	32860	7721898760739518	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	792d7647df90fb86
+32860	32935	7721898761487486	CMakeFiles/glm-populate-complete	1f3c7181800ab6cc
+32860	32935	7721898761487486	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	1f3c7181800ab6cc
+32860	32935	7721898761487486	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	1f3c7181800ab6cc
+32860	32935	7721898761487486	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	1f3c7181800ab6cc

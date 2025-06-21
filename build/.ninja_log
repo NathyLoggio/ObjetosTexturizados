@@ -1,0 +1,27 @@
+# ninja log v6
+10	2504	7721898976989999	_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj	28f225ce60a1d250
+17	2666	7721898977059820	_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj	4611bdec7348f893
+26	2686	7721898977149572	_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj	c2ac2e6d7fae976f
+5	2701	7721898976950116	_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj	f524e85ca4b2b9c9
+95	2746	7721898978515950	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj	f7a7f2b6c1de623d
+21	2782	7721898977099712	_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj	21666ac9d421dcdf
+57	2953	7721898977498638	_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj	87adeaccd8dce137
+89	2967	7721898977787873	_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	4cabecae93239806
+33	3088	7721898977239335	_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj	425dfee19a0884d
+14	3313	7721898977029893	_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj	6b885b49cd4f6e0
+2713	5096	7721899004017743	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj	f6693540e114136b
+2818	5186	7721899005094841	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj	6661fad8d3bdc933
+2757	5311	7721899004466527	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj	e12b2f3ffa2581c0
+2695	5386	7721899003858166	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj	f4504d45c90a5bda
+2682	5517	7721899003708555	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj	3252b5feb4e7b961
+2544	5622	7721899003449252	_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj	f32b3db1a1ccfedb
+2960	5717	7721899006491106	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj	5ea5830ad10c7a86
+2968	5719	7721899006570898	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	1f1874cdb9139c22
+3120	5753	7721899008096840	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	b16ac301581081ba
+3361	6154	7721899010510350	_deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj	c9210cc8d21934e5
+5342	6615	7721899030696387	CMakeFiles/main.dir/src/Sprite.cpp.obj	1191b787aa31ed22
+5120	6926	7721899028332699	_deps/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj	b138a54c94b462a3
+6928	7107	7721899046174981	_deps/glfw-build/src/libglfw3.a	8a286094c9113fa0
+5433	7426	7721899031215032	CMakeFiles/main.dir/common/glad.c.obj	cbb6c8524c581250
+5202	7775	7721899029280159	CMakeFiles/main.dir/src/main.cpp.obj	9cea9ec3fc75acd0
+7776	7939	7721899054652302	main.exe	a716cbe6974ffc4f

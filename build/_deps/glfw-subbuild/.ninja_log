@@ -1,0 +1,21 @@
+# ninja log v6
+1	54	7721898340554131	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	5be06743ca9c426d
+1	54	7721898340554131	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	5be06743ca9c426d
+55	6007	7721898400081462	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	12c58142f1f8ef90
+55	6007	7721898400081462	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	12c58142f1f8ef90
+6007	6298	7721898400131315	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	91e5cc4da7894e5c
+6007	6298	7721898400131315	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	91e5cc4da7894e5c
+6301	6357	7721898403583454	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	a314f5708c0d38c2
+6301	6357	7721898403583454	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	a314f5708c0d38c2
+6357	6409	7721898404102059	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	42568ab1130cec27
+6357	6409	7721898404102059	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	42568ab1130cec27
+6410	6466	7721898404660557	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	40d330878872a39a
+6410	6466	7721898404660557	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	40d330878872a39a
+6466	6518	7721898405189138	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	af020d1e347028
+6466	6518	7721898405189138	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	af020d1e347028
+6519	6573	7721898405737685	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	155d7f45b22ec60b
+6519	6573	7721898405737685	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	155d7f45b22ec60b
+6573	6650	7721898406505629	CMakeFiles/glfw-populate-complete	d3a07daf7ee314d7
+6573	6650	7721898406505629	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d3a07daf7ee314d7
+6573	6650	7721898406505629	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	d3a07daf7ee314d7
+6573	6650	7721898406505629	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	d3a07daf7ee314d7

@@ -1,0 +1,21 @@
+# ninja log v6
+1	58	7721898764728830	stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	a5c8f945b7d1ebac
+1	58	7721898764728830	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	a5c8f945b7d1ebac
+58	5255	7721898816701472	stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	749cf5f66a54f186
+58	5255	7721898816701472	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	749cf5f66a54f186
+5255	7340	7721898816751317	stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	c11737574e8b20ba
+5255	7340	7721898816751317	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	c11737574e8b20ba
+7343	7398	7721898838120272	stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	2696450892646df3
+7343	7398	7721898838120272	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	2696450892646df3
+7398	7456	7721898838708698	stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	6445eb7bfa4f1956
+7398	7456	7721898838708698	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	6445eb7bfa4f1956
+7456	7507	7721898839227307	stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	7d3dd4102a7ec2f2
+7456	7507	7721898839227307	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	7d3dd4102a7ec2f2
+7508	7559	7721898839745913	stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	89dcbc69db9e0ce7
+7508	7559	7721898839745913	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	89dcbc69db9e0ce7
+7559	7614	7721898840284464	stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	e835d4c8380862ab
+7559	7614	7721898840284464	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	e835d4c8380862ab
+7614	7685	7721898841002569	CMakeFiles/stb-populate-complete	8e820bdcaf4ff48c
+7614	7685	7721898841002569	stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	8e820bdcaf4ff48c
+7614	7685	7721898841002569	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/CMakeFiles/stb-populate-complete	8e820bdcaf4ff48c
+7614	7685	7721898841002569	C:/Users/LucasNunes/TexturizarObjetos/ObjetosTexturizados/build/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	8e820bdcaf4ff48c
